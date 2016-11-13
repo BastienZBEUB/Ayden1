@@ -85,10 +85,8 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell&.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	{ogg: "songs/Lullaby of Deserted Hell&.ogg", name: "World on fire - Less Friction"},
+
 ];
 
 /*Random music order?*/
@@ -105,7 +103,13 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Bienvenue sur le serveur",
 "Merci de nous avoir choisit !",
-"Le serveur est actuellement en déveleppoment"
+"Le serveur est actuellement en développement"
+"Veuillez lire les règles du serveur avant de jouer"
+"Respectez le staff et les autres joueurs"
+"Ne pas propkill , propsurf , proppush"
+"Ne pas freedemote , freetaze , freearrest et freedemote"
+
+
 ];
 
 /*Random message order?*/
